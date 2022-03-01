@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The scotch lasses choice, or, Jennys love for Jockey's kindnes: an excellent new song, much in request. To a pleasant new scotch tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06055</idno>
+            <idno type="STC">Wing S955</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.39.k.6[26]</idno>
+            <idno type="EEBO-CITATION">99887403</idno>
+            <idno type="PROQUEST">ocm99887403</idno>
+            <idno type="VID">182112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182112)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:1[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The scotch lasses choice, or, Jennys love for Jockey's kindnes: an excellent new song, much in request. To a pleasant new scotch tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[onah]. Deacon, at the Angel in Guiltspur-street, without Newgate.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher's name, place and date of publication from Wing.</note>
+                  <note>Verse: "Long cold nights, when winter frozen ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>"This may be printed, R.P."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182112:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>The Scotch Laſſes Choice, OR, <hi>Jennys</hi> Love for <hi>Jockey</hi>'s Kindneſ: <hi>An Excellent New Song, much in Requeſt.</hi>
+            </head>
+            <opener>To a pleaſant New Scotch Tune.</opener>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <lg>
+               <head>I.</head>
+               <l>LOng Cold Nights, when Winter-Frozen,</l>
+               <l>
+                  <hi>Jockyes</hi> head lay on my Boſom;</l>
+               <l>Now each wanton Laſs purſues him,</l>
+               <l>Ah-wa's-me, that I muſt looſe him:</l>
+               <l>
+                  <hi>Sawney</hi> and <hi>Jemmy</hi> came often to try me,</l>
+               <l>
+                  <hi>Philly</hi> and <hi>Willy</hi> would fain ligg by me;</l>
+               <l>But, alas! they do but Teaze me,</l>
+               <l>
+                  <hi>Jockey</hi> he alone can pleaſe me.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>When he Writes his Love in Meeter,</l>
+               <l>When he Sings to make it ſweeter,</l>
+               <l>To the Clouds my Soul was driven,</l>
+               <l>Then I thought my ſelf in Heaven;</l>
+               <l>Fether and Mether that knew little of it,</l>
+               <l>Woo'd me, and ſu'd me, to Wed for profit;</l>
+               <l>But had Fate been bad or luckey,</l>
+               <l>Iſe wou'd ne'r forſake poor <hi>Jockey.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Wot ye weel why I adore him,</l>
+               <l>Wou'd you know why Iſe dye for him?</l>
+               <l>He was young, and blith, and bonny,</l>
+               <l>And cou'd love the beſt of any:</l>
+               <l>When Iſe was lying in dying condition,</l>
+               <l>
+                  <hi>Jockey</hi> wou'd ſtill be my beſt Phyſician;</l>
+               <l>Though the Doctor ne'r cou'd pleaſe me,</l>
+               <l>He had ſtill a Doze wou'd eaſe me.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>In his Arms he wou'd infold me,</l>
+               <l>And he there ſo faſt would hold me,</l>
+               <l>That Iſe hardly cou'd get from him,</l>
+               <l>May geud Fortune light upon him.</l>
+               <l>With Kiſſes and bliſſes my heart reviving,</l>
+               <l>
+                  <hi>Philly</hi> and <hi>Willy</hi> they fain wou'd deprive him</l>
+               <l>Of my Love, to him ſo mickle,</l>
+               <l>But geud faith, Iſe not ſo fickle.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>
+                  <hi>Sawney</hi> fine as any Leard too,</l>
+               <l>With a blew Bonnet and Sweard too;</l>
+               <l>Woo'd me, and wou'd fain have led me</l>
+               <l>To the Kirk, there for to Wed me:</l>
+               <l>Gin Fether and Mether they both conſented,</l>
+               <l>But Iſe fear'd Iſe ſhould after repent it;</l>
+               <l>To Marry wou'd be Unlucky</l>
+               <l>Any but my neane ſweet <hi>Jockey.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>But ah-wa's-me, Iſe am fearful,</l>
+               <l>And cannot be glad and Chearful;</l>
+               <l>The Laſſes make ſike a doing,</l>
+               <l>And my <hi>Jockey</hi> from me Wooing;</l>
+               <l>They wou'd if they cou'd, by their kindneſs move him</l>
+               <l>
+                  <hi>Molly</hi> and <hi>Dolly</hi> too, vow they do love him;</l>
+               <l>If <hi>Jockey</hi> is from me flying,</l>
+               <l>Ah-wa's-me, then <hi>Jenny</hi>'s dying.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>But <hi>Jockey</hi> vow'd by his Bonnet,</l>
+               <l>He'd Wed me what e're came on it;</l>
+               <l>Without the conſent of either,</l>
+               <l>My Old Fether or my Mether:</l>
+               <l>For be they willing or no, Iſe ne'r tarry,</l>
+               <l>But as ſoon as I can, my <hi>Jockey</hi> Marry:</l>
+               <l>Then wee's both will ligg together,</l>
+               <l>And ne'r matter the Cold Weather.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This may be Printed, R. P.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Printed for <hi>J. Deacon,</hi> at the Angel in <hi>Guiltſpur-ſtreet,</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
